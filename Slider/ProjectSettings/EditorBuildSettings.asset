@@ -9,19 +9,7 @@ EditorBuildSettings:
     path: Assets/Scenes/MainMenu.unity
     guid: 56bd65cac9177cf4f9fc8785a3118519
   - enabled: 1
-    path: Assets/Scenes/Village.unity
-    guid: 0c972144470402b4293c51d70520a654
-  - enabled: 1
-    path: Assets/Scenes/Caves.unity
-    guid: 63fa1437aba217743abd4877991ad3c1
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 1
-    path: Assets/Scenes/Desert.unity
-    guid: adde00b227d82664383fe34f99dfbf41
-  - enabled: 1
-    path: Assets/Scenes/Jungle.unity
-    guid: 5166cafea5e564e4d852578e0421e8f6
+    path: Assets/Scenes/Dev/Boomo/IntroShot.unity
+    guid: 020e7a78cb3ada8489feaeff8abe8ed8
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: 84f1309155c25994fa9256899015a77a, type: 2}
